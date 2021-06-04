@@ -1,0 +1,14 @@
+.informationField {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 250px;
+  margin: 20px 0px;
+  text-align: center;
+  justify-items: center;
+}
+
+.answersStyle {
+  width: 200px;
+  margin: 5px;
+  border: 1px solid gray;
+}
